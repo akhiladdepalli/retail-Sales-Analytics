@@ -1,0 +1,11 @@
+﻿store_id,store_name,store_type,city,state,region,square_footage,total_transactions,unique_customers,total_revenue,avg_transaction_value,total_discounts,revenue_per_sqft,revenue_rank,revenue_share_pct
+4,Miami Beach Outlet,Outlet,Miami Beach,Florida,Southeast,18000,222,142,139893.52,630.15,946.54,7.77,1,12.58
+1,Manhattan Flagship,Flagship,New York,New York,Northeast,45000,218,132,130697.61,599.53,736.26,2.90,2,11.75
+8,Phoenix Express,Express,Phoenix,Arizona,Southwest,12000,207,129,124368.56,600.81,452.52,10.36,3,11.18
+2,Boston Harbor Square,Standard,Boston,Massachusetts,Northeast,22000,199,128,116352.12,584.68,566.27,5.29,4,10.46
+7,Dallas Galleria,Standard,Dallas,Texas,Southwest,28000,193,125,116189.89,602.02,604.04,4.15,5,10.44
+10,Seattle Pike Place,Standard,Seattle,Washington,West,24000,210,130,106014.62,504.83,418.97,4.42,6,9.53
+6,Minneapolis Mall,Standard,Minneapolis,Minnesota,Midwest,20000,233,137,105339.67,452.10,450.34,5.27,7,9.47
+3,Atlanta Peachtree,Standard,Atlanta,Georgia,Southeast,25000,202,123,99746.98,493.80,518.01,3.99,8,8.97
+5,Chicago Michigan Ave,Flagship,Chicago,Illinois,Midwest,40000,194,115,97409.54,502.11,160.49,2.44,9,8.76
+9,San Francisco Union Sq,Flagship,San Francisco,California,West,38000,197,128,76450.96,388.08,312.63,2.01,10,6.87

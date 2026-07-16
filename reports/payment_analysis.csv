@@ -1,0 +1,7 @@
+﻿payment_method,transaction_count,total_revenue,avg_order_value,pct_of_transactions,pct_of_revenue
+Credit Card,717,390347.92,544.42,34.55,35.09
+Debit Card,523,280916.77,537.13,25.20,25.25
+Mobile Payment,324,196747.99,607.25,15.61,17.69
+Cash,315,147406.93,467.96,15.18,13.25
+Gift Card,104,50972.58,490.12,5.01,4.58
+Store Credit,92,46071.28,500.77,4.43,4.14

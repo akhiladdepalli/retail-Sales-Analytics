@@ -1,0 +1,905 @@
+{
+  "generated_at": "2026-07-16T17:01:56.611707",
+  "data_period": {
+    "start": "2024-01",
+    "end": "2025-12"
+  },
+  "kpis": {
+    "summary": {
+      "total_revenue": 1112463.47,
+      "total_orders": 2075,
+      "total_customers": 200,
+      "total_units_sold": 8550,
+      "avg_order_value": 536.13,
+      "total_discounts": 5166.07,
+      "gross_margin_pct": 54.19,
+      "revenue_per_customer": 5562.32,
+      "units_per_order": 4.1
+    },
+    "revenue": {
+      "latest_month_revenue": 79646.67,
+      "mom_growth_pct": 4.05,
+      "ytd_revenue": 603726.42,
+      "avg_monthly_revenue": 46352.64,
+      "best_month": {
+        "month": "2025-12",
+        "revenue": 79646.67
+      },
+      "worst_month": {
+        "month": "2024-02",
+        "revenue": 25971.84
+      }
+    },
+    "customer": {
+      "total_active_customers": 200,
+      "segment_distribution": {
+        "Hibernating": 40,
+        "Loyal Customers": 36,
+        "Need Attention": 28,
+        "At Risk": 26,
+        "Champions": 25,
+        "New Customers": 24,
+        "Potential Loyalists": 21
+      },
+      "clv_stats": {
+        "mean": 5562.32,
+        "median": 4839.59,
+        "std": 3175.66,
+        "max": 18267.05,
+        "min": 366.19
+      },
+      "repeat_purchase_rate": 100.0,
+      "repeat_customers": 200,
+      "loyalty_tier_distribution": {
+        "Bronze": 84,
+        "Silver": 64,
+        "Gold": 36,
+        "Platinum": 16
+      },
+      "avg_orders_per_customer": 10.4
+    },
+    "product": {
+      "total_products_sold": 110,
+      "top_products": [
+        {
+          "name": "Laptop Pro 15\" i9",
+          "category": "Electronics",
+          "revenue": 191673.42,
+          "units": 106,
+          "rank": 1
+        },
+        {
+          "name": "Memory Foam Mattress Queen",
+          "category": "Home & Garden",
+          "revenue": 68280.79,
+          "units": 80,
+          "rank": 2
+        },
+        {
+          "name": "Tablet Air 11\"",
+          "category": "Electronics",
+          "revenue": 60563.12,
+          "units": 89,
+          "rank": 3
+        },
+        {
+          "name": "Ultra HD 65\" Smart TV",
+          "category": "Electronics",
+          "revenue": 56560.08,
+          "units": 45,
+          "rank": 4
+        },
+        {
+          "name": "Espresso Machine Pro",
+          "category": "Home & Garden",
+          "revenue": 43859.84,
+          "units": 78,
+          "rank": 5
+        },
+        {
+          "name": "Air Purifier HEPA Large",
+          "category": "Home & Garden",
+          "revenue": 26542.4,
+          "units": 113,
+          "rank": 6
+        },
+        {
+          "name": "Smart Watch Series X",
+          "category": "Electronics",
+          "revenue": 26174.93,
+          "units": 68,
+          "rank": 7
+        },
+        {
+          "name": "Wireless Noise-Cancel Headphones",
+          "category": "Electronics",
+          "revenue": 22193.83,
+          "units": 67,
+          "rank": 8
+        },
+        {
+          "name": "Classic Wool Blazer",
+          "category": "Clothing",
+          "revenue": 21622.41,
+          "units": 90,
+          "rank": 9
+        },
+        {
+          "name": "Adjustable Dumbbell Set",
+          "category": "Sports & Fitness",
+          "revenue": 20744.62,
+          "units": 73,
+          "rank": 10
+        }
+      ],
+      "category_breakdown": [
+        {
+          "category": "Electronics",
+          "revenue": 460957.54,
+          "share_pct": 44.63,
+          "order_count": 573
+        },
+        {
+          "category": "Home & Garden",
+          "revenue": 232375.86,
+          "share_pct": 22.5,
+          "order_count": 540
+        },
+        {
+          "category": "Clothing",
+          "revenue": 110357.25,
+          "share_pct": 10.68,
+          "order_count": 538
+        },
+        {
+          "category": "Sports & Fitness",
+          "revenue": 78857.03,
+          "share_pct": 7.63,
+          "order_count": 540
+        },
+        {
+          "category": "Beauty",
+          "revenue": 72813.17,
+          "share_pct": 7.05,
+          "order_count": 532
+        },
+        {
+          "category": "Toys & Games",
+          "revenue": 31921.34,
+          "share_pct": 3.09,
+          "order_count": 330
+        },
+        {
+          "category": "Books & Media",
+          "revenue": 24029.41,
+          "share_pct": 2.33,
+          "order_count": 360
+        },
+        {
+          "category": "Food & Beverages",
+          "revenue": 21534.11,
+          "share_pct": 2.08,
+          "order_count": 521
+        }
+      ],
+      "avg_revenue_per_product": 9389.51
+    },
+    "store": {
+      "total_stores": 10,
+      "store_rankings": [
+        {
+          "name": "Miami Beach Outlet",
+          "type": "Outlet",
+          "region": "Southeast",
+          "revenue": 139893.52,
+          "transactions": 222,
+          "customers": 142,
+          "revenue_per_sqft": 7.77,
+          "rank": 1,
+          "share_pct": 12.58
+        },
+        {
+          "name": "Manhattan Flagship",
+          "type": "Flagship",
+          "region": "Northeast",
+          "revenue": 130697.61,
+          "transactions": 218,
+          "customers": 132,
+          "revenue_per_sqft": 2.9,
+          "rank": 2,
+          "share_pct": 11.75
+        },
+        {
+          "name": "Phoenix Express",
+          "type": "Express",
+          "region": "Southwest",
+          "revenue": 124368.56,
+          "transactions": 207,
+          "customers": 129,
+          "revenue_per_sqft": 10.36,
+          "rank": 3,
+          "share_pct": 11.18
+        },
+        {
+          "name": "Boston Harbor Square",
+          "type": "Standard",
+          "region": "Northeast",
+          "revenue": 116352.12,
+          "transactions": 199,
+          "customers": 128,
+          "revenue_per_sqft": 5.29,
+          "rank": 4,
+          "share_pct": 10.46
+        },
+        {
+          "name": "Dallas Galleria",
+          "type": "Standard",
+          "region": "Southwest",
+          "revenue": 116189.89,
+          "transactions": 193,
+          "customers": 125,
+          "revenue_per_sqft": 4.15,
+          "rank": 5,
+          "share_pct": 10.44
+        },
+        {
+          "name": "Seattle Pike Place",
+          "type": "Standard",
+          "region": "West",
+          "revenue": 106014.62,
+          "transactions": 210,
+          "customers": 130,
+          "revenue_per_sqft": 4.42,
+          "rank": 6,
+          "share_pct": 9.53
+        },
+        {
+          "name": "Minneapolis Mall",
+          "type": "Standard",
+          "region": "Midwest",
+          "revenue": 105339.67,
+          "transactions": 233,
+          "customers": 137,
+          "revenue_per_sqft": 5.27,
+          "rank": 7,
+          "share_pct": 9.47
+        },
+        {
+          "name": "Atlanta Peachtree",
+          "type": "Standard",
+          "region": "Southeast",
+          "revenue": 99746.98,
+          "transactions": 202,
+          "customers": 123,
+          "revenue_per_sqft": 3.99,
+          "rank": 8,
+          "share_pct": 8.97
+        },
+        {
+          "name": "Chicago Michigan Ave",
+          "type": "Flagship",
+          "region": "Midwest",
+          "revenue": 97409.54,
+          "transactions": 194,
+          "customers": 115,
+          "revenue_per_sqft": 2.44,
+          "rank": 9,
+          "share_pct": 8.76
+        },
+        {
+          "name": "San Francisco Union Sq",
+          "type": "Flagship",
+          "region": "West",
+          "revenue": 76450.96,
+          "transactions": 197,
+          "customers": 128,
+          "revenue_per_sqft": 2.01,
+          "rank": 10,
+          "share_pct": 6.87
+        }
+      ],
+      "avg_revenue_per_store": 111246.35,
+      "best_store": "Miami Beach Outlet"
+    },
+    "growth": {
+      "yoy_growth_pct": 18.67,
+      "avg_mom_growth_pct": 8.44,
+      "quarterly_revenue": {
+        "2024-Q1": 103092.19,
+        "2024-Q2": 115205.22,
+        "2024-Q3": 124164.76,
+        "2024-Q4": 166274.88,
+        "2025-Q1": 113240.23,
+        "2025-Q2": 156146.37,
+        "2025-Q3": 137229.39,
+        "2025-Q4": 197110.43
+      },
+      "revenue_trend": "\ud83d\udcc8 Growing"
+    }
+  },
+  "monthly_revenue": [
+    {
+      "month": "2024-01",
+      "revenue": 40924.85,
+      "orders": 63,
+      "customers": 54,
+      "aov": 649.6,
+      "growth_pct": null,
+      "moving_avg": 40924.85
+    },
+    {
+      "month": "2024-02",
+      "revenue": 25971.84,
+      "orders": 58,
+      "customers": 49,
+      "aov": 447.79,
+      "growth_pct": -36.54,
+      "moving_avg": 33448.34
+    },
+    {
+      "month": "2024-03",
+      "revenue": 36195.5,
+      "orders": 62,
+      "customers": 55,
+      "aov": 583.8,
+      "growth_pct": 39.36,
+      "moving_avg": 34364.06
+    },
+    {
+      "month": "2024-04",
+      "revenue": 31956.1,
+      "orders": 66,
+      "customers": 61,
+      "aov": 484.18,
+      "growth_pct": -11.71,
+      "moving_avg": 31374.48
+    },
+    {
+      "month": "2024-05",
+      "revenue": 34106.78,
+      "orders": 80,
+      "customers": 69,
+      "aov": 426.33,
+      "growth_pct": 6.73,
+      "moving_avg": 34086.13
+    },
+    {
+      "month": "2024-06",
+      "revenue": 49142.34,
+      "orders": 90,
+      "customers": 74,
+      "aov": 546.03,
+      "growth_pct": 44.08,
+      "moving_avg": 38401.74
+    },
+    {
+      "month": "2024-07",
+      "revenue": 38862.91,
+      "orders": 77,
+      "customers": 60,
+      "aov": 504.71,
+      "growth_pct": -20.92,
+      "moving_avg": 40704.01
+    },
+    {
+      "month": "2024-08",
+      "revenue": 51008.85,
+      "orders": 71,
+      "customers": 58,
+      "aov": 718.43,
+      "growth_pct": 31.25,
+      "moving_avg": 46338.03
+    },
+    {
+      "month": "2024-09",
+      "revenue": 34293.0,
+      "orders": 78,
+      "customers": 59,
+      "aov": 439.65,
+      "growth_pct": -32.77,
+      "moving_avg": 41388.25
+    },
+    {
+      "month": "2024-10",
+      "revenue": 40482.29,
+      "orders": 89,
+      "customers": 70,
+      "aov": 454.86,
+      "growth_pct": 18.05,
+      "moving_avg": 41928.05
+    },
+    {
+      "month": "2024-11",
+      "revenue": 61031.65,
+      "orders": 100,
+      "customers": 73,
+      "aov": 610.32,
+      "growth_pct": 50.76,
+      "moving_avg": 45268.98
+    },
+    {
+      "month": "2024-12",
+      "revenue": 64760.94,
+      "orders": 133,
+      "customers": 98,
+      "aov": 486.92,
+      "growth_pct": 6.11,
+      "moving_avg": 55424.96
+    },
+    {
+      "month": "2025-01",
+      "revenue": 40674.66,
+      "orders": 69,
+      "customers": 61,
+      "aov": 589.49,
+      "growth_pct": -37.19,
+      "moving_avg": 55489.08
+    },
+    {
+      "month": "2025-02",
+      "revenue": 36821.16,
+      "orders": 71,
+      "customers": 58,
+      "aov": 518.61,
+      "growth_pct": -9.47,
+      "moving_avg": 47418.92
+    },
+    {
+      "month": "2025-03",
+      "revenue": 35744.41,
+      "orders": 83,
+      "customers": 68,
+      "aov": 430.66,
+      "growth_pct": -2.92,
+      "moving_avg": 37746.74
+    },
+    {
+      "month": "2025-04",
+      "revenue": 48484.19,
+      "orders": 88,
+      "customers": 73,
+      "aov": 550.96,
+      "growth_pct": 35.64,
+      "moving_avg": 40349.92
+    },
+    {
+      "month": "2025-05",
+      "revenue": 42083.26,
+      "orders": 93,
+      "customers": 73,
+      "aov": 452.51,
+      "growth_pct": -13.2,
+      "moving_avg": 42103.95
+    },
+    {
+      "month": "2025-06",
+      "revenue": 65578.92,
+      "orders": 107,
+      "customers": 86,
+      "aov": 612.89,
+      "growth_pct": 55.83,
+      "moving_avg": 52048.79
+    },
+    {
+      "month": "2025-07",
+      "revenue": 35340.2,
+      "orders": 84,
+      "customers": 69,
+      "aov": 420.72,
+      "growth_pct": -46.11,
+      "moving_avg": 47667.46
+    },
+    {
+      "month": "2025-08",
+      "revenue": 53195.43,
+      "orders": 75,
+      "customers": 66,
+      "aov": 709.27,
+      "growth_pct": 50.52,
+      "moving_avg": 51371.52
+    },
+    {
+      "month": "2025-09",
+      "revenue": 48693.76,
+      "orders": 95,
+      "customers": 78,
+      "aov": 512.57,
+      "growth_pct": -8.46,
+      "moving_avg": 45743.13
+    },
+    {
+      "month": "2025-10",
+      "revenue": 40918.24,
+      "orders": 95,
+      "customers": 77,
+      "aov": 430.72,
+      "growth_pct": -15.97,
+      "moving_avg": 47602.48
+    },
+    {
+      "month": "2025-11",
+      "revenue": 76545.52,
+      "orders": 112,
+      "customers": 92,
+      "aov": 683.44,
+      "growth_pct": 87.07,
+      "moving_avg": 55385.84
+    },
+    {
+      "month": "2025-12",
+      "revenue": 79646.67,
+      "orders": 136,
+      "customers": 99,
+      "aov": 585.64,
+      "growth_pct": 4.05,
+      "moving_avg": 65703.48
+    }
+  ],
+  "categories": [
+    {
+      "category": "Electronics",
+      "revenue": 460957.54,
+      "share_pct": 44.63,
+      "orders": 573,
+      "units": 1214
+    },
+    {
+      "category": "Home & Garden",
+      "revenue": 232375.86,
+      "share_pct": 22.5,
+      "orders": 540,
+      "units": 1141
+    },
+    {
+      "category": "Clothing",
+      "revenue": 110357.25,
+      "share_pct": 10.68,
+      "orders": 538,
+      "units": 1223
+    },
+    {
+      "category": "Sports & Fitness",
+      "revenue": 78857.03,
+      "share_pct": 7.63,
+      "orders": 540,
+      "units": 1155
+    },
+    {
+      "category": "Beauty",
+      "revenue": 72813.17,
+      "share_pct": 7.05,
+      "orders": 532,
+      "units": 1180
+    },
+    {
+      "category": "Toys & Games",
+      "revenue": 31921.34,
+      "share_pct": 3.09,
+      "orders": 330,
+      "units": 724
+    },
+    {
+      "category": "Books & Media",
+      "revenue": 24029.41,
+      "share_pct": 2.33,
+      "orders": 360,
+      "units": 748
+    },
+    {
+      "category": "Food & Beverages",
+      "revenue": 21534.11,
+      "share_pct": 2.08,
+      "orders": 521,
+      "units": 1165
+    }
+  ],
+  "top_products": [
+    {
+      "name": "Laptop Pro 15\" i9",
+      "category": "Electronics",
+      "brand": "NexGen",
+      "revenue": 191673.42,
+      "units": 106,
+      "orders": 54,
+      "margin": 40.0
+    },
+    {
+      "name": "Memory Foam Mattress Queen",
+      "category": "Home & Garden",
+      "brand": "SleepWell",
+      "revenue": 68280.79,
+      "units": 80,
+      "orders": 42,
+      "margin": 60.0
+    },
+    {
+      "name": "Tablet Air 11\"",
+      "category": "Electronics",
+      "brand": "NexGen",
+      "revenue": 60563.12,
+      "units": 89,
+      "orders": 43,
+      "margin": 50.0
+    },
+    {
+      "name": "Ultra HD 65\" Smart TV",
+      "category": "Electronics",
+      "brand": "TechVision",
+      "revenue": 56560.08,
+      "units": 45,
+      "orders": 29,
+      "margin": 40.0
+    },
+    {
+      "name": "Espresso Machine Pro",
+      "category": "Home & Garden",
+      "brand": "BrewMaster",
+      "revenue": 43859.84,
+      "units": 78,
+      "orders": 39,
+      "margin": 60.0
+    },
+    {
+      "name": "Air Purifier HEPA Large",
+      "category": "Home & Garden",
+      "brand": "CleanAir",
+      "revenue": 26542.4,
+      "units": 113,
+      "orders": 51,
+      "margin": 60.0
+    },
+    {
+      "name": "Smart Watch Series X",
+      "category": "Electronics",
+      "brand": "TechVision",
+      "revenue": 26174.93,
+      "units": 68,
+      "orders": 41,
+      "margin": 60.0
+    },
+    {
+      "name": "Wireless Noise-Cancel Headphones",
+      "category": "Electronics",
+      "brand": "SoundWave",
+      "revenue": 22193.83,
+      "units": 67,
+      "orders": 31,
+      "margin": 60.0
+    },
+    {
+      "name": "Classic Wool Blazer",
+      "category": "Clothing",
+      "brand": "FormalEdge",
+      "revenue": 21622.41,
+      "units": 90,
+      "orders": 46,
+      "margin": 62.0
+    },
+    {
+      "name": "Adjustable Dumbbell Set",
+      "category": "Sports & Fitness",
+      "brand": "IronForge",
+      "revenue": 20744.62,
+      "units": 73,
+      "orders": 32,
+      "margin": 60.0
+    }
+  ],
+  "stores": [
+    {
+      "name": "Miami Beach Outlet",
+      "type": "Outlet",
+      "region": "Southeast",
+      "city": "Miami Beach",
+      "revenue": 139893.52,
+      "transactions": 222,
+      "customers": 142,
+      "avg_txn_value": 630.15,
+      "revenue_per_sqft": 7.77,
+      "share_pct": 12.58
+    },
+    {
+      "name": "Manhattan Flagship",
+      "type": "Flagship",
+      "region": "Northeast",
+      "city": "New York",
+      "revenue": 130697.61,
+      "transactions": 218,
+      "customers": 132,
+      "avg_txn_value": 599.53,
+      "revenue_per_sqft": 2.9,
+      "share_pct": 11.75
+    },
+    {
+      "name": "Phoenix Express",
+      "type": "Express",
+      "region": "Southwest",
+      "city": "Phoenix",
+      "revenue": 124368.56,
+      "transactions": 207,
+      "customers": 129,
+      "avg_txn_value": 600.81,
+      "revenue_per_sqft": 10.36,
+      "share_pct": 11.18
+    },
+    {
+      "name": "Boston Harbor Square",
+      "type": "Standard",
+      "region": "Northeast",
+      "city": "Boston",
+      "revenue": 116352.12,
+      "transactions": 199,
+      "customers": 128,
+      "avg_txn_value": 584.68,
+      "revenue_per_sqft": 5.29,
+      "share_pct": 10.46
+    },
+    {
+      "name": "Dallas Galleria",
+      "type": "Standard",
+      "region": "Southwest",
+      "city": "Dallas",
+      "revenue": 116189.89,
+      "transactions": 193,
+      "customers": 125,
+      "avg_txn_value": 602.02,
+      "revenue_per_sqft": 4.15,
+      "share_pct": 10.44
+    },
+    {
+      "name": "Seattle Pike Place",
+      "type": "Standard",
+      "region": "West",
+      "city": "Seattle",
+      "revenue": 106014.62,
+      "transactions": 210,
+      "customers": 130,
+      "avg_txn_value": 504.83,
+      "revenue_per_sqft": 4.42,
+      "share_pct": 9.53
+    },
+    {
+      "name": "Minneapolis Mall",
+      "type": "Standard",
+      "region": "Midwest",
+      "city": "Minneapolis",
+      "revenue": 105339.67,
+      "transactions": 233,
+      "customers": 137,
+      "avg_txn_value": 452.1,
+      "revenue_per_sqft": 5.27,
+      "share_pct": 9.47
+    },
+    {
+      "name": "Atlanta Peachtree",
+      "type": "Standard",
+      "region": "Southeast",
+      "city": "Atlanta",
+      "revenue": 99746.98,
+      "transactions": 202,
+      "customers": 123,
+      "avg_txn_value": 493.8,
+      "revenue_per_sqft": 3.99,
+      "share_pct": 8.97
+    },
+    {
+      "name": "Chicago Michigan Ave",
+      "type": "Flagship",
+      "region": "Midwest",
+      "city": "Chicago",
+      "revenue": 97409.54,
+      "transactions": 194,
+      "customers": 115,
+      "avg_txn_value": 502.11,
+      "revenue_per_sqft": 2.44,
+      "share_pct": 8.76
+    },
+    {
+      "name": "San Francisco Union Sq",
+      "type": "Flagship",
+      "region": "West",
+      "city": "San Francisco",
+      "revenue": 76450.96,
+      "transactions": 197,
+      "customers": 128,
+      "avg_txn_value": 388.08,
+      "revenue_per_sqft": 2.01,
+      "share_pct": 6.87
+    }
+  ],
+  "customer_segments": [
+    {
+      "segment": "At Risk",
+      "count": 26,
+      "avg_spent": 8171.43,
+      "avg_orders": 12.8,
+      "total_revenue": 212457.23
+    },
+    {
+      "segment": "Champions",
+      "count": 25,
+      "avg_spent": 8672.07,
+      "avg_orders": 13.9,
+      "total_revenue": 216801.72
+    },
+    {
+      "segment": "Hibernating",
+      "count": 40,
+      "avg_spent": 3819.49,
+      "avg_orders": 7.2,
+      "total_revenue": 152779.69
+    },
+    {
+      "segment": "Loyal Customers",
+      "count": 36,
+      "avg_spent": 6887.88,
+      "avg_orders": 12.2,
+      "total_revenue": 247963.55
+    },
+    {
+      "segment": "Need Attention",
+      "count": 28,
+      "avg_spent": 3021.94,
+      "avg_orders": 9.9,
+      "total_revenue": 84614.2
+    },
+    {
+      "segment": "New Customers",
+      "count": 24,
+      "avg_spent": 4309.51,
+      "avg_orders": 7.1,
+      "total_revenue": 103428.18
+    },
+    {
+      "segment": "Potential Loyalists",
+      "count": 21,
+      "avg_spent": 4496.14,
+      "avg_orders": 10.4,
+      "total_revenue": 94418.9
+    }
+  ],
+  "payment_methods": [
+    {
+      "method": "Credit Card",
+      "count": 717,
+      "revenue": 390347.92,
+      "pct_transactions": 34.55,
+      "pct_revenue": 35.09
+    },
+    {
+      "method": "Debit Card",
+      "count": 523,
+      "revenue": 280916.77,
+      "pct_transactions": 25.2,
+      "pct_revenue": 25.25
+    },
+    {
+      "method": "Mobile Payment",
+      "count": 324,
+      "revenue": 196747.99,
+      "pct_transactions": 15.61,
+      "pct_revenue": 17.69
+    },
+    {
+      "method": "Cash",
+      "count": 315,
+      "revenue": 147406.93,
+      "pct_transactions": 15.18,
+      "pct_revenue": 13.25
+    },
+    {
+      "method": "Gift Card",
+      "count": 104,
+      "revenue": 50972.58,
+      "pct_transactions": 5.01,
+      "pct_revenue": 4.58
+    },
+    {
+      "method": "Store Credit",
+      "count": 92,
+      "revenue": 46071.28,
+      "pct_transactions": 4.43,
+      "pct_revenue": 4.14
+    }
+  ]
+}

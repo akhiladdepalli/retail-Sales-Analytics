@@ -1,0 +1,332 @@
+{
+  "report_title": "Retail Sales Analytics \u2014 Executive Summary",
+  "generated_at": "2026-07-16T17:01:56.614752",
+  "highlights": {
+    "total_revenue": 1112463.47,
+    "total_orders": 2075,
+    "total_customers": 200,
+    "avg_order_value": 536.13,
+    "gross_margin_pct": 54.19,
+    "yoy_growth_pct": 18.67
+  },
+  "top_insights": [
+    "Total revenue: $1,112,463.47",
+    "YoY Growth: 18.7%",
+    "Best performing store: Miami Beach Outlet",
+    "Gross margin: 54.2%",
+    "Repeat purchase rate: 100.0%"
+  ],
+  "kpis": {
+    "summary": {
+      "total_revenue": 1112463.47,
+      "total_orders": 2075,
+      "total_customers": 200,
+      "total_units_sold": 8550,
+      "avg_order_value": 536.13,
+      "total_discounts": 5166.07,
+      "gross_margin_pct": 54.19,
+      "revenue_per_customer": 5562.32,
+      "units_per_order": 4.1
+    },
+    "revenue": {
+      "latest_month_revenue": 79646.67,
+      "mom_growth_pct": 4.05,
+      "ytd_revenue": 603726.42,
+      "avg_monthly_revenue": 46352.64,
+      "best_month": {
+        "month": "2025-12",
+        "revenue": 79646.67
+      },
+      "worst_month": {
+        "month": "2024-02",
+        "revenue": 25971.84
+      }
+    },
+    "customer": {
+      "total_active_customers": 200,
+      "segment_distribution": {
+        "Hibernating": 40,
+        "Loyal Customers": 36,
+        "Need Attention": 28,
+        "At Risk": 26,
+        "Champions": 25,
+        "New Customers": 24,
+        "Potential Loyalists": 21
+      },
+      "clv_stats": {
+        "mean": 5562.32,
+        "median": 4839.59,
+        "std": 3175.66,
+        "max": 18267.05,
+        "min": 366.19
+      },
+      "repeat_purchase_rate": 100.0,
+      "repeat_customers": 200,
+      "loyalty_tier_distribution": {
+        "Bronze": 84,
+        "Silver": 64,
+        "Gold": 36,
+        "Platinum": 16
+      },
+      "avg_orders_per_customer": 10.4
+    },
+    "product": {
+      "total_products_sold": 110,
+      "top_products": [
+        {
+          "name": "Laptop Pro 15\" i9",
+          "category": "Electronics",
+          "revenue": 191673.42,
+          "units": 106,
+          "rank": 1
+        },
+        {
+          "name": "Memory Foam Mattress Queen",
+          "category": "Home & Garden",
+          "revenue": 68280.79,
+          "units": 80,
+          "rank": 2
+        },
+        {
+          "name": "Tablet Air 11\"",
+          "category": "Electronics",
+          "revenue": 60563.12,
+          "units": 89,
+          "rank": 3
+        },
+        {
+          "name": "Ultra HD 65\" Smart TV",
+          "category": "Electronics",
+          "revenue": 56560.08,
+          "units": 45,
+          "rank": 4
+        },
+        {
+          "name": "Espresso Machine Pro",
+          "category": "Home & Garden",
+          "revenue": 43859.84,
+          "units": 78,
+          "rank": 5
+        },
+        {
+          "name": "Air Purifier HEPA Large",
+          "category": "Home & Garden",
+          "revenue": 26542.4,
+          "units": 113,
+          "rank": 6
+        },
+        {
+          "name": "Smart Watch Series X",
+          "category": "Electronics",
+          "revenue": 26174.93,
+          "units": 68,
+          "rank": 7
+        },
+        {
+          "name": "Wireless Noise-Cancel Headphones",
+          "category": "Electronics",
+          "revenue": 22193.83,
+          "units": 67,
+          "rank": 8
+        },
+        {
+          "name": "Classic Wool Blazer",
+          "category": "Clothing",
+          "revenue": 21622.41,
+          "units": 90,
+          "rank": 9
+        },
+        {
+          "name": "Adjustable Dumbbell Set",
+          "category": "Sports & Fitness",
+          "revenue": 20744.62,
+          "units": 73,
+          "rank": 10
+        }
+      ],
+      "category_breakdown": [
+        {
+          "category": "Electronics",
+          "revenue": 460957.54,
+          "share_pct": 44.63,
+          "order_count": 573
+        },
+        {
+          "category": "Home & Garden",
+          "revenue": 232375.86,
+          "share_pct": 22.5,
+          "order_count": 540
+        },
+        {
+          "category": "Clothing",
+          "revenue": 110357.25,
+          "share_pct": 10.68,
+          "order_count": 538
+        },
+        {
+          "category": "Sports & Fitness",
+          "revenue": 78857.03,
+          "share_pct": 7.63,
+          "order_count": 540
+        },
+        {
+          "category": "Beauty",
+          "revenue": 72813.17,
+          "share_pct": 7.05,
+          "order_count": 532
+        },
+        {
+          "category": "Toys & Games",
+          "revenue": 31921.34,
+          "share_pct": 3.09,
+          "order_count": 330
+        },
+        {
+          "category": "Books & Media",
+          "revenue": 24029.41,
+          "share_pct": 2.33,
+          "order_count": 360
+        },
+        {
+          "category": "Food & Beverages",
+          "revenue": 21534.11,
+          "share_pct": 2.08,
+          "order_count": 521
+        }
+      ],
+      "avg_revenue_per_product": 9389.51
+    },
+    "store": {
+      "total_stores": 10,
+      "store_rankings": [
+        {
+          "name": "Miami Beach Outlet",
+          "type": "Outlet",
+          "region": "Southeast",
+          "revenue": 139893.52,
+          "transactions": 222,
+          "customers": 142,
+          "revenue_per_sqft": 7.77,
+          "rank": 1,
+          "share_pct": 12.58
+        },
+        {
+          "name": "Manhattan Flagship",
+          "type": "Flagship",
+          "region": "Northeast",
+          "revenue": 130697.61,
+          "transactions": 218,
+          "customers": 132,
+          "revenue_per_sqft": 2.9,
+          "rank": 2,
+          "share_pct": 11.75
+        },
+        {
+          "name": "Phoenix Express",
+          "type": "Express",
+          "region": "Southwest",
+          "revenue": 124368.56,
+          "transactions": 207,
+          "customers": 129,
+          "revenue_per_sqft": 10.36,
+          "rank": 3,
+          "share_pct": 11.18
+        },
+        {
+          "name": "Boston Harbor Square",
+          "type": "Standard",
+          "region": "Northeast",
+          "revenue": 116352.12,
+          "transactions": 199,
+          "customers": 128,
+          "revenue_per_sqft": 5.29,
+          "rank": 4,
+          "share_pct": 10.46
+        },
+        {
+          "name": "Dallas Galleria",
+          "type": "Standard",
+          "region": "Southwest",
+          "revenue": 116189.89,
+          "transactions": 193,
+          "customers": 125,
+          "revenue_per_sqft": 4.15,
+          "rank": 5,
+          "share_pct": 10.44
+        },
+        {
+          "name": "Seattle Pike Place",
+          "type": "Standard",
+          "region": "West",
+          "revenue": 106014.62,
+          "transactions": 210,
+          "customers": 130,
+          "revenue_per_sqft": 4.42,
+          "rank": 6,
+          "share_pct": 9.53
+        },
+        {
+          "name": "Minneapolis Mall",
+          "type": "Standard",
+          "region": "Midwest",
+          "revenue": 105339.67,
+          "transactions": 233,
+          "customers": 137,
+          "revenue_per_sqft": 5.27,
+          "rank": 7,
+          "share_pct": 9.47
+        },
+        {
+          "name": "Atlanta Peachtree",
+          "type": "Standard",
+          "region": "Southeast",
+          "revenue": 99746.98,
+          "transactions": 202,
+          "customers": 123,
+          "revenue_per_sqft": 3.99,
+          "rank": 8,
+          "share_pct": 8.97
+        },
+        {
+          "name": "Chicago Michigan Ave",
+          "type": "Flagship",
+          "region": "Midwest",
+          "revenue": 97409.54,
+          "transactions": 194,
+          "customers": 115,
+          "revenue_per_sqft": 2.44,
+          "rank": 9,
+          "share_pct": 8.76
+        },
+        {
+          "name": "San Francisco Union Sq",
+          "type": "Flagship",
+          "region": "West",
+          "revenue": 76450.96,
+          "transactions": 197,
+          "customers": 128,
+          "revenue_per_sqft": 2.01,
+          "rank": 10,
+          "share_pct": 6.87
+        }
+      ],
+      "avg_revenue_per_store": 111246.35,
+      "best_store": "Miami Beach Outlet"
+    },
+    "growth": {
+      "yoy_growth_pct": 18.67,
+      "avg_mom_growth_pct": 8.44,
+      "quarterly_revenue": {
+        "2024-Q1": 103092.19,
+        "2024-Q2": 115205.22,
+        "2024-Q3": 124164.76,
+        "2024-Q4": 166274.88,
+        "2025-Q1": 113240.23,
+        "2025-Q2": 156146.37,
+        "2025-Q3": 137229.39,
+        "2025-Q4": 197110.43
+      },
+      "revenue_trend": "\ud83d\udcc8 Growing"
+    }
+  }
+}

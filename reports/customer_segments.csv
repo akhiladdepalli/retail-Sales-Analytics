@@ -1,0 +1,201 @@
+﻿customer_id,total_orders,total_spent,avg_order_value,last_purchase,recency_days,r_score,f_score,m_score,rfm_total,segment,first_name,last_name,city,state,loyalty_tier
+1,6,1602.97,267.16,2025-11-24 18:39:00,33,3,1,1,5,Need Attention,Joseph,Thomas,Boston,Massachusetts,Gold
+2,11,7346.25,667.84,2025-12-19 08:53:00,9,4,3,4,11,Loyal Customers,Logan,White,Atlanta,Georgia,Bronze
+3,13,8835.10,679.62,2025-10-26 10:37:00,63,2,4,5,11,At Risk,Hannah,Brown,Miami,Florida,Bronze
+4,9,5944.98,660.55,2025-09-22 14:54:00,97,1,2,4,7,Hibernating,Elena,Williams,Chicago,Illinois,Bronze
+5,9,4582.76,509.20,2025-11-23 19:33:00,34,3,2,3,8,Potential Loyalists,Dylan,Hall,Minneapolis,Minnesota,Bronze
+6,17,10535.43,619.73,2025-12-05 16:59:00,23,3,5,5,13,Loyal Customers,Samuel,Taylor,Dallas,Texas,Bronze
+7,9,8441.89,937.99,2025-09-19 21:33:00,99,1,2,5,8,Hibernating,Piper,Brown,Phoenix,Arizona,Gold
+8,11,8395.56,763.23,2025-08-21 19:54:00,128,1,3,5,9,At Risk,Jacob,Jones,San Francisco,California,Platinum
+9,7,3294.44,470.63,2025-09-19 20:39:00,99,1,1,2,4,Hibernating,Caleb,Williams,Seattle,Washington,Silver
+10,9,2682.06,298.01,2025-11-15 10:54:00,43,2,2,1,5,Hibernating,Daniel,Mitchell,New York,New York,Bronze
+11,8,7348.37,918.55,2025-11-15 13:05:00,43,2,2,4,8,Hibernating,Benjamin,Williams,Boston,Massachusetts,Silver
+12,9,4563.73,507.08,2025-12-07 21:41:00,20,3,2,3,8,Potential Loyalists,Victoria,Jackson,Atlanta,Georgia,Gold
+13,10,9135.59,913.56,2025-10-13 15:11:00,76,1,3,5,9,At Risk,Grace,Young,Miami,Florida,Platinum
+14,18,3175.27,176.40,2025-12-18 19:09:00,9,4,5,2,11,Potential Loyalists,Hunter,Perez,Chicago,Illinois,Bronze
+15,20,6153.12,307.66,2025-12-22 20:00:00,5,5,5,4,14,Champions,Aubrey,Sanchez,Minneapolis,Minnesota,Bronze
+16,15,17200.08,1146.67,2025-12-19 18:42:00,8,5,5,5,15,Champions,Owen,Rivera,Dallas,Texas,Bronze
+17,11,4628.38,420.76,2025-08-01 08:11:00,149,1,3,3,7,At Risk,Piper,Rodriguez,Phoenix,Arizona,Bronze
+18,7,1979.62,282.80,2025-11-24 21:12:00,33,3,1,1,5,Need Attention,Emilia,Scott,San Francisco,California,Gold
+19,13,5243.26,403.33,2025-11-26 10:28:00,32,3,4,3,10,Loyal Customers,Eli,Lewis,Seattle,Washington,Gold
+20,10,6800.97,680.10,2025-12-18 15:18:00,10,4,3,4,11,Loyal Customers,Nicholas,White,New York,New York,Silver
+21,8,2323.99,290.50,2025-06-22 10:12:00,189,1,2,1,4,Hibernating,Aria,Ramirez,Boston,Massachusetts,Silver
+22,15,12015.04,801.00,2025-12-14 11:38:00,14,4,5,5,14,Champions,Ava,Johnson,Atlanta,Georgia,Gold
+23,8,3068.33,383.54,2025-11-17 14:31:00,41,2,2,1,5,Hibernating,Thomas,Martinez,Miami,Florida,Gold
+24,8,2340.38,292.55,2025-12-22 16:02:00,6,5,2,1,8,New Customers,Christopher,Flores,Chicago,Illinois,Silver
+25,10,5321.45,532.14,2025-12-14 08:15:00,14,4,3,4,11,Loyal Customers,Paisley,White,Minneapolis,Minnesota,Silver
+26,10,5100.99,510.10,2025-09-17 21:04:00,101,1,3,3,7,At Risk,Jack,Allen,Dallas,Texas,Silver
+27,11,10216.47,928.77,2025-12-19 20:11:00,8,5,3,5,13,Loyal Customers,Ellie,Rivera,Phoenix,Arizona,Bronze
+28,8,3430.96,428.87,2025-12-24 12:20:00,4,5,2,2,9,New Customers,Jason,Hall,San Francisco,California,Silver
+29,7,3076.53,439.50,2025-12-16 12:47:00,12,4,1,1,6,New Customers,Samuel,Sanchez,Seattle,Washington,Bronze
+30,13,4146.95,319.00,2025-12-20 14:50:00,8,5,4,2,11,Potential Loyalists,Jack,Adams,New York,New York,Bronze
+31,19,12450.46,655.29,2025-08-17 18:41:00,132,1,5,5,11,At Risk,Paisley,King,Boston,Massachusetts,Bronze
+32,6,981.43,163.57,2025-11-18 19:46:00,39,2,1,1,4,Hibernating,Aurora,Allen,Atlanta,Georgia,Silver
+33,6,2409.86,401.64,2025-11-01 21:26:00,56,2,1,1,4,Hibernating,Henry,Flores,Miami,Florida,Silver
+34,9,2012.94,223.66,2025-10-07 20:40:00,81,1,2,1,4,Hibernating,Matthew,Carter,Chicago,Illinois,Platinum
+35,8,3773.38,471.67,2025-09-20 21:44:00,98,1,2,2,5,Hibernating,Christopher,King,Minneapolis,Minnesota,Silver
+36,14,5373.73,383.84,2025-12-24 20:33:00,3,5,5,4,14,Champions,Aubrey,Allen,Dallas,Texas,Silver
+37,13,5547.19,426.71,2025-11-27 08:50:00,31,3,4,4,11,Loyal Customers,Matthew,Hill,Phoenix,Arizona,Bronze
+38,8,3498.75,437.34,2025-10-24 17:14:00,64,2,2,2,6,Hibernating,Abigail,Roberts,San Francisco,California,Gold
+39,7,5541.96,791.71,2025-11-19 12:28:00,39,2,1,4,7,Hibernating,Riley,Robinson,Seattle,Washington,Gold
+40,8,5122.97,640.37,2025-12-24 10:30:00,4,5,2,3,10,New Customers,Caleb,Brown,New York,New York,Gold
+41,9,4666.57,518.51,2025-12-27 20:48:00,0,5,2,3,10,New Customers,Eli,King,Boston,Massachusetts,Bronze
+42,18,4175.91,232.00,2025-10-20 12:18:00,69,2,5,2,9,Need Attention,Abigail,Lewis,Atlanta,Georgia,Gold
+43,4,366.19,91.55,2025-12-17 17:03:00,11,4,1,1,6,New Customers,Ellie,Scott,Miami,Florida,Bronze
+44,10,8414.36,841.44,2025-12-25 12:36:00,3,5,3,5,13,Loyal Customers,Kennedy,Williams,Chicago,Illinois,Platinum
+45,8,1278.66,159.83,2025-10-23 20:24:00,65,2,2,1,5,Hibernating,Aurora,Martinez,Minneapolis,Minnesota,Bronze
+46,14,7619.92,544.28,2025-12-18 17:11:00,10,4,5,4,13,Champions,Nora,Harris,Dallas,Texas,Silver
+47,12,4133.98,344.50,2025-11-05 08:10:00,53,2,4,2,8,Need Attention,Kennedy,Rodriguez,Phoenix,Arizona,Gold
+48,16,13296.23,831.01,2025-12-07 12:15:00,21,3,5,5,13,Loyal Customers,Madelyn,Sanchez,San Francisco,California,Silver
+49,12,7284.34,607.03,2025-12-23 15:54:00,5,5,4,4,13,Champions,Jacob,Williams,Seattle,Washington,Silver
+50,12,9032.55,752.71,2025-12-24 11:13:00,4,5,4,5,14,Champions,Adrian,Jones,New York,New York,Bronze
+51,12,7296.69,608.06,2025-08-23 18:12:00,126,1,4,4,9,At Risk,Amelia,Davis,Boston,Massachusetts,Gold
+52,10,4849.49,484.95,2025-10-26 08:38:00,63,2,3,3,8,At Risk,Aria,Thompson,Atlanta,Georgia,Bronze
+53,8,3161.02,395.13,2025-12-01 13:38:00,27,3,2,2,7,Potential Loyalists,Daniel,Ramirez,Miami,Florida,Silver
+54,7,5100.63,728.66,2025-11-24 14:42:00,34,3,1,3,7,Need Attention,Ruby,King,Chicago,Illinois,Bronze
+55,13,4367.19,335.94,2025-12-05 08:31:00,23,3,4,3,10,Loyal Customers,Miles,Carter,Minneapolis,Minnesota,Bronze
+56,13,3989.82,306.91,2025-12-23 15:21:00,5,5,4,2,11,Potential Loyalists,Adam,Miller,Dallas,Texas,Bronze
+57,7,5133.28,733.33,2025-11-16 14:20:00,42,2,1,3,6,Hibernating,Kennedy,Campbell,Phoenix,Arizona,Platinum
+58,11,6076.17,552.38,2025-12-02 17:56:00,25,3,3,4,10,Loyal Customers,Lily,Allen,San Francisco,California,Gold
+59,8,4336.83,542.10,2025-11-04 18:15:00,53,2,2,3,7,Hibernating,Isaac,Nelson,Seattle,Washington,Platinum
+60,11,7527.05,684.28,2025-12-22 08:50:00,6,5,3,4,12,Loyal Customers,Hannah,Phillips,New York,New York,Silver
+61,9,6436.21,715.13,2025-11-03 17:21:00,54,2,2,4,8,Hibernating,Thomas,Nelson,Boston,Massachusetts,Gold
+62,16,4586.12,286.63,2025-12-28 17:12:00,0,5,5,3,13,Loyal Customers,Mackenzie,Roberts,Atlanta,Georgia,Silver
+63,11,2257.23,205.20,2025-12-05 08:24:00,23,3,3,1,7,Need Attention,Robert,Sanchez,Miami,Florida,Silver
+64,7,3526.01,503.72,2025-12-28 10:23:00,0,5,1,2,8,New Customers,Charles,Rivera,Chicago,Illinois,Bronze
+65,19,12281.86,646.41,2025-11-18 15:12:00,40,2,5,5,12,At Risk,Sebastian,Gonzalez,Minneapolis,Minnesota,Gold
+66,9,3797.55,421.95,2025-12-19 16:51:00,9,4,2,2,8,New Customers,Aurora,White,Dallas,Texas,Silver
+67,6,5701.30,950.22,2025-12-10 10:10:00,18,4,1,4,9,New Customers,Dylan,Thompson,Phoenix,Arizona,Bronze
+68,14,10737.90,766.99,2025-11-21 13:36:00,37,3,5,5,13,Loyal Customers,Nathan,Nguyen,San Francisco,California,Silver
+69,14,9100.68,650.05,2025-12-19 14:18:00,9,4,5,5,14,Champions,Mason,Flores,Seattle,Washington,Bronze
+70,9,6244.86,693.87,2025-10-28 12:47:00,61,2,2,4,8,Hibernating,Ruby,Scott,New York,New York,Silver
+71,9,6307.20,700.80,2025-12-12 13:06:00,16,4,2,4,10,New Customers,Ellie,Walker,Boston,Massachusetts,Bronze
+72,10,3287.22,328.72,2025-12-21 18:05:00,6,5,3,2,10,Potential Loyalists,Caleb,Nguyen,Atlanta,Georgia,Bronze
+73,14,16137.47,1152.68,2025-11-07 16:17:00,51,2,5,5,12,At Risk,Henry,Johnson,Miami,Florida,Bronze
+74,12,7739.91,644.99,2025-10-01 08:06:00,88,1,4,4,9,At Risk,Nicholas,Sanchez,Chicago,Illinois,Silver
+75,6,4982.01,830.34,2025-10-14 21:04:00,74,1,1,3,5,Hibernating,Naomi,Garcia,Minneapolis,Minnesota,Silver
+76,9,4907.55,545.28,2025-11-10 10:27:00,48,2,2,3,7,Hibernating,Aiden,Nguyen,Dallas,Texas,Bronze
+77,11,3742.38,340.22,2025-11-28 12:08:00,30,3,3,2,8,Potential Loyalists,Tyler,Carter,Phoenix,Arizona,Bronze
+78,12,8395.84,699.65,2025-10-12 15:22:00,77,1,4,5,10,At Risk,Aiden,Clark,San Francisco,California,Gold
+79,10,4613.10,461.31,2025-10-12 21:22:00,76,1,3,3,7,At Risk,Levi,Nguyen,Seattle,Washington,Bronze
+80,7,3866.36,552.34,2025-12-16 19:50:00,11,4,1,2,7,New Customers,Willow,Young,New York,New York,Bronze
+81,14,4353.69,310.98,2025-12-21 21:24:00,6,5,5,3,13,Loyal Customers,Isabella,Rivera,Boston,Massachusetts,Bronze
+82,11,4430.90,402.81,2025-11-09 12:26:00,49,2,3,3,8,At Risk,Kennedy,Lewis,Atlanta,Georgia,Silver
+83,14,9236.38,659.74,2025-12-02 16:08:00,26,3,5,5,13,Loyal Customers,Sadie,Scott,Miami,Florida,Silver
+84,7,2790.17,398.60,2025-06-20 18:11:00,190,1,1,1,3,Hibernating,Paisley,Gonzalez,Chicago,Illinois,Bronze
+85,15,8284.19,552.28,2025-11-16 17:09:00,42,2,5,5,12,At Risk,Piper,Robinson,Minneapolis,Minnesota,Bronze
+86,13,3561.05,273.93,2025-06-28 10:31:00,183,1,4,2,7,Need Attention,Robert,Scott,Dallas,Texas,Bronze
+87,10,6012.51,601.25,2025-12-16 14:47:00,12,4,3,4,11,Loyal Customers,William,Clark,Phoenix,Arizona,Bronze
+88,7,2402.24,343.18,2025-07-20 20:49:00,160,1,1,1,3,Hibernating,Robert,Rivera,San Francisco,California,Platinum
+89,18,18267.05,1014.84,2025-09-16 14:40:00,103,1,5,5,11,At Risk,Charles,Hernandez,Seattle,Washington,Silver
+90,10,8071.69,807.17,2025-12-12 20:16:00,15,4,3,5,12,Loyal Customers,Emilia,Roberts,New York,New York,Bronze
+91,12,9138.62,761.55,2025-12-06 19:11:00,21,3,4,5,12,Loyal Customers,Eleanor,Allen,Boston,Massachusetts,Gold
+92,7,1672.31,238.90,2025-12-22 16:29:00,6,5,1,1,7,New Customers,Addison,Scott,Atlanta,Georgia,Bronze
+93,5,2861.48,572.30,2025-12-24 09:37:00,4,5,1,1,7,New Customers,Madelyn,Sanchez,Miami,Florida,Bronze
+94,10,3230.57,323.06,2025-12-11 14:25:00,17,4,3,2,9,Potential Loyalists,Henry,Adams,Chicago,Illinois,Gold
+95,7,5016.59,716.66,2025-09-11 12:06:00,108,1,1,3,5,Hibernating,Hazel,Martin,Minneapolis,Minnesota,Silver
+96,7,3694.14,527.73,2025-07-08 13:15:00,173,1,1,2,4,Hibernating,Henry,Sanchez,Dallas,Texas,Silver
+97,8,3227.38,403.42,2025-12-11 15:19:00,17,4,2,2,8,New Customers,Riley,Flores,Phoenix,Arizona,Bronze
+98,11,3471.50,315.59,2025-12-15 11:03:00,13,4,3,2,9,Potential Loyalists,Andrew,Garcia,San Francisco,California,Gold
+99,12,5240.16,436.68,2025-12-21 13:14:00,7,5,4,3,12,Loyal Customers,Ruby,Gonzalez,Seattle,Washington,Silver
+100,13,12987.85,999.07,2025-12-09 18:54:00,18,4,4,5,13,Champions,Elena,Davis,New York,New York,Silver
+101,13,10988.57,845.27,2025-12-16 21:13:00,11,4,4,5,13,Champions,Thomas,Williams,Boston,Massachusetts,Bronze
+102,9,11475.11,1275.01,2025-12-17 18:10:00,10,4,2,5,11,New Customers,Madelyn,Rivera,Atlanta,Georgia,Bronze
+103,14,7204.44,514.60,2025-12-20 15:11:00,8,5,5,4,14,Champions,Addison,Rivera,Miami,Florida,Gold
+104,4,617.41,154.35,2025-09-13 20:26:00,105,1,1,1,3,Hibernating,Jason,Flores,Chicago,Illinois,Silver
+105,9,3429.06,381.01,2025-10-11 16:10:00,78,1,2,2,5,Hibernating,James,Rivera,Minneapolis,Minnesota,Bronze
+106,6,2059.51,343.25,2025-04-06 13:02:00,266,1,1,1,3,Hibernating,Samuel,Rodriguez,Dallas,Texas,Bronze
+107,4,4481.30,1120.33,2025-09-03 14:48:00,116,1,1,3,5,Hibernating,Ella,Lewis,Phoenix,Arizona,Platinum
+108,10,11904.18,1190.42,2025-11-16 12:52:00,42,2,3,5,10,At Risk,Adrian,Hill,San Francisco,California,Silver
+109,13,3556.55,273.58,2025-10-12 20:28:00,76,1,4,2,7,Need Attention,Bella,Mitchell,Seattle,Washington,Gold
+110,12,6672.50,556.04,2025-07-26 09:52:00,155,1,4,4,9,At Risk,Paisley,Torres,New York,New York,Silver
+111,8,7767.59,970.95,2025-12-27 08:48:00,1,5,2,4,11,New Customers,Madeline,Carter,Boston,Massachusetts,Silver
+112,16,5091.32,318.21,2025-12-20 11:28:00,8,5,5,3,13,Loyal Customers,Ava,Taylor,Atlanta,Georgia,Gold
+113,13,5357.10,412.08,2025-12-24 08:50:00,4,5,4,4,13,Champions,Riley,Rodriguez,Miami,Florida,Bronze
+114,4,780.74,195.18,2025-11-26 19:34:00,31,3,1,1,5,Need Attention,Samuel,Torres,Chicago,Illinois,Silver
+115,14,6073.46,433.82,2025-12-27 11:57:00,1,5,5,4,14,Champions,Savannah,Nguyen,Minneapolis,Minnesota,Platinum
+116,13,5990.15,460.78,2025-10-18 13:04:00,71,2,5,4,11,At Risk,Zoey,Martinez,Dallas,Texas,Bronze
+117,7,3127.95,446.85,2025-08-02 18:48:00,147,1,1,2,4,Hibernating,Victoria,Wilson,Phoenix,Arizona,Platinum
+118,11,7150.53,650.05,2025-12-27 09:53:00,1,5,4,4,13,Champions,Isabella,Mitchell,San Francisco,California,Platinum
+119,7,2697.49,385.36,2025-12-25 19:46:00,2,5,1,1,7,New Customers,Bella,Garcia,Seattle,Washington,Bronze
+120,11,6707.15,609.74,2025-12-05 20:58:00,22,3,4,4,11,Loyal Customers,Aurora,Mitchell,New York,New York,Bronze
+121,12,6702.43,558.54,2025-12-22 16:27:00,6,5,4,4,13,Champions,Dylan,Ramirez,Boston,Massachusetts,Silver
+122,14,10715.41,765.39,2025-12-25 09:13:00,3,5,5,5,15,Champions,Liam,Perez,Atlanta,Georgia,Bronze
+123,15,7316.80,487.79,2025-12-21 20:53:00,6,5,5,4,14,Champions,Hazel,Garcia,Miami,Florida,Platinum
+124,7,4835.59,690.80,2025-12-21 18:34:00,6,5,1,3,9,New Customers,Paisley,Hernandez,Chicago,Illinois,Gold
+125,10,6439.58,643.96,2025-11-11 16:31:00,47,2,3,4,9,At Risk,Adam,Johnson,Minneapolis,Minnesota,Platinum
+126,11,3278.03,298.00,2025-11-18 17:39:00,39,2,4,2,8,Need Attention,Ian,Green,Dallas,Texas,Silver
+127,11,1694.19,154.02,2025-12-02 12:29:00,26,3,4,1,8,Need Attention,Caleb,Wright,Phoenix,Arizona,Silver
+128,8,2807.63,350.95,2025-12-03 10:38:00,25,3,2,1,6,Need Attention,Liam,Hall,San Francisco,California,Silver
+129,6,2736.63,456.10,2025-10-14 09:49:00,75,1,1,1,3,Hibernating,Nicholas,Mitchell,Seattle,Washington,Silver
+130,16,5382.54,336.41,2025-12-09 17:43:00,18,4,5,4,13,Champions,Abigail,Flores,New York,New York,Bronze
+131,8,3717.09,464.64,2025-11-01 09:19:00,57,2,2,2,6,Hibernating,Dominic,Jackson,Boston,Massachusetts,Bronze
+132,11,4225.98,384.18,2025-12-02 11:27:00,26,3,4,2,9,Potential Loyalists,Elena,King,Atlanta,Georgia,Gold
+133,6,6510.57,1085.10,2025-12-21 08:49:00,7,5,1,4,10,New Customers,Zoey,Garcia,Miami,Florida,Gold
+134,12,7487.67,623.97,2025-12-10 17:55:00,17,4,4,4,12,Champions,Zoey,Lee,Chicago,Illinois,Silver
+135,9,14258.95,1584.33,2025-11-23 17:02:00,35,3,2,5,10,Potential Loyalists,Jack,Baker,Minneapolis,Minnesota,Silver
+136,8,5125.16,640.64,2025-12-16 13:05:00,12,4,2,3,9,New Customers,Eleanor,Taylor,Dallas,Texas,Bronze
+137,7,4188.48,598.35,2025-11-03 08:29:00,55,2,1,2,5,Hibernating,Clara,Jones,Phoenix,Arizona,Bronze
+138,11,4827.28,438.84,2025-12-19 09:22:00,9,4,4,3,11,Loyal Customers,Joseph,Allen,San Francisco,California,Bronze
+139,12,9091.97,757.66,2025-12-15 20:30:00,12,4,4,5,13,Champions,Mason,Jackson,Seattle,Washington,Bronze
+140,13,3643.86,280.30,2025-12-22 15:36:00,6,5,5,2,12,Potential Loyalists,Liam,Garcia,New York,New York,Silver
+141,14,3908.89,279.21,2025-06-06 12:33:00,205,1,5,2,8,Need Attention,Sebastian,Clark,Boston,Massachusetts,Silver
+142,7,5151.01,735.86,2025-10-08 19:27:00,80,1,1,3,5,Hibernating,Aria,Mitchell,Atlanta,Georgia,Silver
+143,11,4516.30,410.57,2025-11-27 15:49:00,31,3,4,3,10,Loyal Customers,Matthew,Clark,Miami,Florida,Gold
+144,5,810.42,162.08,2025-12-28 14:09:00,0,5,1,1,7,New Customers,Chloe,Mitchell,Chicago,Illinois,Bronze
+145,20,8977.22,448.86,2025-10-17 09:41:00,72,2,5,5,12,At Risk,Eleanor,Anderson,Minneapolis,Minnesota,Silver
+146,11,3647.75,331.61,2025-10-23 10:52:00,66,2,4,2,8,Need Attention,Alexander,Brown,Dallas,Texas,Gold
+147,10,3528.42,352.84,2025-09-25 10:23:00,94,1,3,2,6,Need Attention,Bella,Jackson,Phoenix,Arizona,Silver
+148,7,1593.67,227.67,2025-10-27 19:51:00,61,2,1,1,4,Hibernating,Isaac,Nguyen,San Francisco,California,Bronze
+149,11,2993.32,272.12,2025-10-17 16:33:00,72,2,4,1,7,Need Attention,Aria,Clark,Seattle,Washington,Silver
+150,11,8742.89,794.81,2025-11-21 19:41:00,36,3,4,5,12,Loyal Customers,Isaac,Jones,New York,New York,Bronze
+151,7,7236.97,1033.85,2025-12-26 08:06:00,2,5,1,4,10,New Customers,Charles,Mitchell,Boston,Massachusetts,Gold
+152,12,6648.74,554.06,2025-12-20 15:01:00,8,5,4,4,13,Champions,Piper,Martin,Atlanta,Georgia,Bronze
+153,9,3715.70,412.86,2025-11-12 11:51:00,46,2,2,2,6,Hibernating,Willow,Rivera,Miami,Florida,Bronze
+154,9,1970.79,218.98,2025-11-03 17:07:00,55,2,3,1,6,Need Attention,Jayden,Miller,Chicago,Illinois,Bronze
+155,9,1968.47,218.72,2025-07-25 17:28:00,155,1,3,1,5,Need Attention,Violet,Young,Minneapolis,Minnesota,Bronze
+156,10,3926.41,392.64,2025-12-18 09:21:00,10,4,3,2,9,Potential Loyalists,Andrew,Green,Dallas,Texas,Silver
+157,14,11759.16,839.94,2025-12-09 14:10:00,19,3,5,5,13,Loyal Customers,Nora,Lewis,Phoenix,Arizona,Platinum
+158,14,10328.46,737.75,2025-10-23 18:14:00,65,2,5,5,12,At Risk,Violet,Hill,San Francisco,California,Silver
+159,8,5004.39,625.55,2025-11-20 15:44:00,38,3,2,3,8,Potential Loyalists,Amelia,Clark,Seattle,Washington,Bronze
+160,10,3752.47,375.25,2025-12-22 21:37:00,5,5,3,2,10,Potential Loyalists,Benjamin,Martin,New York,New York,Bronze
+161,10,4809.89,480.99,2025-12-15 12:41:00,13,4,3,3,10,Loyal Customers,Emma,Clark,Boston,Massachusetts,Gold
+162,2,5277.06,2638.53,2024-06-09 13:54:00,567,1,1,3,5,Hibernating,Ivy,Wilson,Atlanta,Georgia,Silver
+163,10,4814.81,481.48,2025-09-05 18:44:00,113,1,3,3,7,At Risk,William,Garcia,Miami,Florida,Bronze
+164,8,3179.08,397.38,2025-11-26 13:44:00,32,3,2,2,7,Potential Loyalists,Noah,Lee,Chicago,Illinois,Bronze
+165,10,2921.98,292.20,2025-12-27 20:17:00,0,5,3,1,9,Need Attention,Abigail,Thomas,Minneapolis,Minnesota,Silver
+166,15,5705.67,380.38,2025-10-26 13:09:00,63,2,5,4,11,At Risk,Ian,Garcia,Dallas,Texas,Gold
+167,13,4906.72,377.44,2025-12-13 12:48:00,15,4,5,3,12,Loyal Customers,Lucas,Martinez,Phoenix,Arizona,Bronze
+168,10,5637.35,563.74,2025-11-11 20:33:00,46,2,3,4,9,At Risk,Aria,Robinson,San Francisco,California,Bronze
+169,8,8514.71,1064.34,2025-12-06 12:09:00,22,3,2,5,10,Potential Loyalists,Levi,Scott,Seattle,Washington,Bronze
+170,10,8984.65,898.46,2025-12-23 17:47:00,4,5,3,5,13,Loyal Customers,Aubrey,Jones,New York,New York,Bronze
+171,6,1933.25,322.21,2025-11-16 19:01:00,41,2,1,1,4,Hibernating,Amelia,Flores,Boston,Massachusetts,Gold
+172,11,4842.46,440.22,2025-11-26 11:17:00,32,3,4,3,10,Loyal Customers,Luna,White,Atlanta,Georgia,Silver
+173,12,3133.32,261.11,2025-11-27 21:30:00,30,3,4,2,9,Potential Loyalists,Tyler,Williams,Miami,Florida,Silver
+174,3,851.21,283.74,2025-12-18 14:42:00,10,4,1,1,6,New Customers,Mia,Miller,Chicago,Illinois,Bronze
+175,7,2509.60,358.51,2025-11-28 18:15:00,29,3,2,1,6,Need Attention,Chloe,Mitchell,Minneapolis,Minnesota,Silver
+176,9,10622.16,1180.24,2025-11-20 18:22:00,37,3,3,5,11,Loyal Customers,Ivy,Robinson,Dallas,Texas,Bronze
+177,8,6154.88,769.36,2025-12-09 18:30:00,18,4,2,4,10,New Customers,Adrian,Jones,Phoenix,Arizona,Silver
+178,13,4813.24,370.25,2025-12-05 10:44:00,23,3,5,3,11,Loyal Customers,Luna,Hill,San Francisco,California,Silver
+179,11,5144.73,467.70,2025-11-16 16:56:00,42,2,4,3,9,At Risk,Owen,Robinson,Seattle,Washington,Silver
+180,24,9235.78,384.82,2025-12-26 10:17:00,2,5,5,5,15,Champions,Zachary,Williams,New York,New York,Bronze
+181,10,4186.19,418.62,2025-08-28 18:53:00,121,1,3,2,6,Need Attention,Aubrey,Baker,Boston,Massachusetts,Silver
+182,10,4832.98,483.30,2025-12-11 10:17:00,17,4,3,3,10,Loyal Customers,Clara,Hill,Atlanta,Georgia,Bronze
+183,6,4836.72,806.12,2025-11-26 18:57:00,31,3,1,3,7,Need Attention,Nathan,Gonzalez,Miami,Florida,Platinum
+184,12,3026.07,252.17,2025-07-23 18:04:00,157,1,4,1,6,Need Attention,Adrian,Mitchell,Chicago,Illinois,Gold
+185,9,2949.10,327.68,2025-09-28 11:57:00,91,1,3,1,5,Need Attention,Nicholas,Jones,Minneapolis,Minnesota,Gold
+186,12,4439.67,369.97,2025-12-02 13:38:00,26,3,4,3,10,Loyal Customers,Kennedy,Lewis,Dallas,Texas,Bronze
+187,16,3119.20,194.95,2025-12-27 12:49:00,1,5,5,1,11,Need Attention,Sebastian,Green,Phoenix,Arizona,Gold
+188,7,3531.92,504.56,2025-11-11 12:39:00,47,2,2,2,6,Hibernating,Ezra,Perez,San Francisco,California,Bronze
+189,4,1648.31,412.08,2025-11-14 10:16:00,44,2,1,1,4,Hibernating,Emma,Green,Seattle,Washington,Silver
+190,10,2765.13,276.51,2025-12-09 18:23:00,18,4,3,1,8,Need Attention,Evelyn,Clark,New York,New York,Bronze
+191,9,4109.81,456.65,2025-12-07 15:53:00,21,3,3,2,8,Potential Loyalists,Abigail,Hill,Boston,Massachusetts,Bronze
+192,9,3318.70,368.74,2025-11-20 10:53:00,38,3,3,2,8,Potential Loyalists,Zoey,Baker,Atlanta,Georgia,Bronze
+193,16,5155.73,322.23,2025-12-23 14:06:00,5,5,5,3,13,Loyal Customers,Isaac,Davis,Miami,Florida,Bronze
+194,13,11257.76,865.98,2025-12-15 13:10:00,13,4,5,5,14,Champions,Joseph,Baker,Chicago,Illinois,Silver
+195,13,9335.25,718.10,2025-12-12 10:16:00,16,4,5,5,14,Champions,Charlotte,Moore,Minneapolis,Minnesota,Platinum
+196,8,7026.42,878.30,2025-08-24 10:25:00,126,1,2,4,7,Hibernating,Samuel,Green,Dallas,Texas,Silver
+197,7,3123.71,446.24,2025-12-07 11:27:00,21,3,2,1,6,Need Attention,Luke,Martin,Phoenix,Arizona,Bronze
+198,11,10085.96,916.91,2025-12-21 08:00:00,7,5,4,5,14,Champions,Victoria,Walker,San Francisco,California,Gold
+199,15,4842.86,322.86,2025-12-20 14:26:00,8,5,5,3,13,Loyal Customers,Tyler,Phillips,Seattle,Washington,Silver
+200,6,2230.33,371.72,2025-11-21 17:15:00,36,3,1,1,5,Need Attention,Aaron,Jones,New York,New York,Bronze
